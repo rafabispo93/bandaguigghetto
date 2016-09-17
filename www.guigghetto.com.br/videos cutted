@@ -1,0 +1,81 @@
+</article><article class="video feature-col col-md-4">
+                                    <a href="" onclick="populate_and_open_modal(event, 'video-2338');" class="thumbnail linked">
+                                        <div class="image-container">
+                                            <img data-img-src="http://www.avioesdoforro.com.br/go/wp-content/uploads/2016/05/avatar2-241x150.jpg" class="lazy item-thumbnail" alt="Não Me Esqueceu, Né? (Clipe)">
+                                        </div>
+                                    </a><!-- .thumbnail -->	
+<div class="caption">
+                                                         <div class="clear;"></div>
+                                        <h5>Não Me Esqueceu, Né? (Clipe)</h5>
+                                    </div><!-- .caption -->
+
+                                    <div class="content-to-populate-in-modal" id="video-2338">
+
+
+<h5>Não Me Esqueceu, Né? (Clipe)</h5>
+
+										<div class="clear;"></div>
+
+										<iframe class="left" width="100%" height="400px" src="http://www.youtube.com/embed/Bct42ywfX5Q" frameborder="0"></iframe><!-- allowfullscreen -->
+                                            <div class="clear"></div>
+                                    </div><!-- #modal-content-6 -->
+                                </article><article class="video feature-col col-md-4">
+                                    <a href="" onclick="populate_and_open_modal(event, 'video-1522');" class="thumbnail linked">
+                                        <div class="image-container">
+                                            <img data-img-src="http://www.avioesdoforro.com.br/go/wp-content/uploads/2015/10/OGC8068-241x150.jpg" class="lazy item-thumbnail" alt="Banca de Flores">
+                                        </div>
+                                    </a><!-- .thumbnail -->
+                                    <div class="caption">
+                                                         <div class="clear;"></div>
+                                        <h5>Banca de Flores</h5>
+                                    </div><!-- .caption -->
+
+                                    <div class="content-to-populate-in-modal" id="video-1522">
+
+										<h5>Banca de Flores</h5>
+
+										<div class="clear;"></div>
+
+										<iframe class="left" width="100%" height="400px" src="http://www.youtube.com/embed/FNmDL1-3CR8" frameborder="0"></iframe><!-- allowfullscreen -->
+                                            <div class="clear"></div>
+                                    </div><!-- #modal-content-6 -->
+                                </article><article class="video feature-col col-md-4">
+                                    <a href="" onclick="populate_and_open_modal(event, 'video-1488');" class="thumbnail linked">
+                                        <div class="image-container">
+                                            <img data-img-src="http://www.avioesdoforro.com.br/go/wp-content/uploads/2015/10/abertura-241x150.jpg" class="lazy item-thumbnail" alt="Aviões Chegou">
+                                        </div>
+                                    </a><!-- .thumbnail -->
+                                    <div class="caption">
+                                                         <div class="clear;"></div>
+                                        <h5>Aviões Chegou</h5>
+                                    </div><!-- .caption -->
+
+                                    <div class="content-to-populate-in-modal" id="video-1488">
+
+										<h5>Aviões Chegou</h5>
+
+										<div class="clear;"></div>
+
+										<iframe class="left" width="100%" height="400px" src="http://www.youtube.com/embed/5Z46ClpLVnk" frameborder="0"></iframe><!-- allowfullscreen -->
+                                            <div class="clear"></div>
+                                    </div><!-- #modal-content-6 -->
+                                </article><article class="video feature-col col-md-4">
+                                    <a href="" onclick="populate_and_open_modal(event, 'video-1486');" class="thumbnail linked">
+                                        <div class="image-container">
+                                            <img data-img-src="http://www.avioesdoforro.com.br/go/wp-content/uploads/2015/10/fiqueisabendo-241x150.jpg" class="lazy item-thumbnail" alt="Fiquei Sabendo">
+                                        </div>
+                                    </a><!-- .thumbnail -->
+                                    <div class="caption">
+                                                         <div class="clear;"></div>
+                                        <h5>Fiquei Sabendo</h5>
+                                    </div><!-- .caption -->
+
+                                    <div class="content-to-populate-in-modal" id="video-1486">
+
+										<h5>Fiquei Sabendo</h5>
+
+										<div class="clear;"></div>
+
+										<iframe class="left" width="100%" height="400px" src="http://www.youtube.com/embed/8PC4Qa_14p4" frameborder="0"></iframe><!-- allowfullscreen -->
+                                            <div class="clear"></div>
+                                    </div><!-- #modal-content-6 -->
